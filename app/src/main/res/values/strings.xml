@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buoi12_DrawerLayout_Fragment_Tablayout_ViewPager</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="menu">menu</string>
+    <string name="story">story</string>
+</resources>
